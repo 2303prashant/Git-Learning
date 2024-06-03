@@ -1,0 +1,14 @@
+below are the commonly used git commands:
+***************************************************
+commands to configure Git:
+git config --global user.name "your_name"
+git config --global user.email "email"
+***************************************************
+command for creatiing repositories:
+mkdir /my_git_project
+cd /my_git_project
+ls
+git init   -------- to initialize git repository
+git status -------- to check the status of git repo, whether the directory is tracked by git or not
+***************************************************
+Commands used to make changes:
